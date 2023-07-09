@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,Q as e,t as l}from"./framework-5411b43d.js";const o={},r=e("h4",{id:"matchall",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#matchall","aria-hidden":"true"},"#"),l(),e("code",null,"matchAll()")],-1),s=[r];function n(_,d){return a(),c("div",null,s)}const i=t(o,[["render",n],["__file","ES11.html.vue"]]);export{i as default};

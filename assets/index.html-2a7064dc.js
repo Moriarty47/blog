@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a91e9eee","path":"/resume/","title":"简历","lang":"zh-CN","frontmatter":{"title":"简历","sidebar":false,"useNav":false,"useMeta":false,"pageClass":"page-resume","password":{"value":"38e4fec51807cd3490aa4462e2e3c673","closable":false}},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

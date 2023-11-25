@@ -1,0 +1,31 @@
+@media print {
+
+  header.navbar,
+  .sidebar-mask,
+  .sidebar,
+  .footer,
+  .banner,
+  .print-btn {
+    display: none !important;
+  }
+
+  body {
+    color: #333 !important;
+  }
+
+  html.dark body {
+    color: #333 !important;
+  }
+
+  a[href]::after {
+    content: none !important;
+  }
+
+  .dark .page-resume {
+    color: #333 !important;
+  }
+
+  .page-resume .theme-default-content>div {
+    margin-top: -160px;
+  }
+}
